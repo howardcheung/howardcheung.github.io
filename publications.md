@@ -66,3 +66,7 @@ I'll try to host my paper preprints on this website as much as I can. For the fi
 * Cheung, H., Braun, J. E. and Langner, M. R., (2016), _Methodology to Assess No Touch Audit Software Using Simulated Building Utility Data_, NREL/SR-5500-66001. Golden, CO: National Renewable Energy Laboratory [[External link for a free copy]](http://www.nrel.gov/docs/fy17osti/66001.pdf)
 
 * Cheung, H. and Braun, J. E., (2015), _Development of Fault Models for Hybrid Fault Detection and Diagnostics Algorithm_, NREL/SR-5500-65030. Golden, CO: National Renewable Energy Laboratory [[External link for a free copy]](http://www.nrel.gov/docs/fy16osti/65030.pdf)
+
+# PhD Thesis
+* Cheung, H. (2014). Inverse modeling of vapor compression equipment to enable simulation of fault impacts (PhD Thesis). Purdue University, West Lafayette, IN. 
+[External link](http://docs.lib.purdue.edu/dissertations/AAI3668777/)
