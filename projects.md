@@ -58,6 +58,8 @@ I tested the performance of multiple ductless heat pump systems, including one w
 
 ### Relevant publications
 
+Here is a listed of publications ordered according to the nature of the projects instead of the type of publication. Note that a publication can appear in this list multiple times if it is related to multiple projects. For a clean list of publications, please read [here](../publications).
+
 #### OpenStudio fault modeling/ Modeling of HVAC equipment faults in energy models of commercial buildings
 * Frank, S., Heaney, M., Jin, X., Robertson, J., Cheung, H., Elmore, R. and Henze, G. (2016), Hybrid Model-Based and Data-Driven Fault Detection and Diagnostics for Commercial Buildings, _2016 ACEEE Summer Study on Energy Efficiency in Buildings_, Pacific Grove, California [[External link for a free preprint]](http://www.nrel.gov/docs/fy16osti/65924.pdf)
 
@@ -87,6 +89,8 @@ I tested the performance of multiple ductless heat pump systems, including one w
 * Yuill, D. P., Cheung, H. and Braun, J. E., (2014), Validation of a Fault-Modeling Equipped Vapor Compression System Model Using a Fault Detection and Diagnostics Evaluation Tool. _Proceedings of the 15th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[External link for a free copy]](http://docs.lib.purdue.edu/iracc/1544/)
 
 * Cheung, H. and Braun, J. E., (2014), Modeling of Fault Impacts for a Multi-split Ductless Heat Pump System. _Proceedings of the 11th IEA Heat Pump Conference 2014_, Montreal, Quebec [[Preprint]](../publications/2014 IEA HP - DHP Fault Modeling Paper.pdf)
+
+* Cheung, H. (2014). Inverse modeling of vapor compression equipment to enable simulation of fault impacts (PhD Dissertation). Purdue University, West Lafayette, IN. [[External link]](http://docs.lib.purdue.edu/dissertations/AAI3668777/) [[File hosted here]](../publications/Final_dissertation_edit.pdf)
 
 * Cheung, H. and Braun, J. E., (2012), Inverse Modeling to Simulate Fault Impacts for Vapor Compression Equipment Part 2:  System Modeling and Validation, _Proceedings of 14th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[External link for a free copy]](http://docs.lib.purdue.edu/iracc/1167/)
 
