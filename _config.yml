@@ -30,7 +30,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-keep_files: [publications/2014 IEA HP - DHP Fault Modeling Paper.pdf, publications/Final_dissertation_edit.pdf]
+keep_files: ["publications/2014 IEA HP - DHP Fault Modeling Paper.pdf", "publications/Final_dissertation_edit.pdf"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
