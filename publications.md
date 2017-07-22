@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-Looks like you're really interested in what I have done!
+Looks like you're really interested in what I have done! Thank you so much!
 
-Thanks for your interest, and please find my publication list below! I'll try to host my paper preprints on this website as much as I can. For the final accepted manuscripts, I usually don't host them here due to copyright issues, and please use their DOI to visit the publishers' websites to download them.
+I'll try to host my paper preprints on this website as much as I can. For the final accepted manuscripts, I usually don't host them here due to copyright issues, and please use their DOI to visit the publishers' websites to download them.
 
 # Journal publications
 * Cheung, H. and Braun, J. E., (2017), An empirical model for simulating the effects of refrigerant charge faults on air conditioner performance, _Science and Technology for the Built Environment_, [(DOI link)](http://dx.doi.org/10.1080/23744731.2016.1260419)

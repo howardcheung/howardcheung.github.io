@@ -29,4 +29,4 @@ I am working on energy management solutions such as fault detection and diagnost
 I have spent quite some time to work on calculation of uncertainties due to various factors such as regression data measurement uncertainties, choice of regression data, model structure, etc. for thermal system models. There are some publications about the research for compressor models, and the project is still on-going for other thermal applications. If you want to know more, you can look it up at my publication list or contact me directly at <howard.at@gmail.com>!
 
 ### Previous
-I am still organizing this section and haven't listed everything yet. In the meantime, check out [my LinkedIn profile](https://www.linkedin.com/in/howard-cheung-aa994a44) for more information!
+I am still organizing this section and haven't listed everything yet. In the meantime, check out [my publication list](../publications) for more information!
