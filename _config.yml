@@ -17,9 +17,9 @@ title: Howard's ups and downs
 subtitle: On what Howard does, says and thinks
 email: howard.at@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Documenting Howard's ups and downs in his research in thermal systems, his
-  work on building applications, his thought processes, and his boring daily
-  routines
+  Documenting Howard's ups and downs in his engineering research in thermal
+  systems, his work on engineering energy-saving building applications, his
+  thought processes, and his boring daily routines
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "howardcheung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: howardat
