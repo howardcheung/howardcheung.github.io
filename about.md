@@ -6,7 +6,7 @@ permalink: /about/
 
 # Who am I?
 
-I am a researcher on thermal systems and smart building equipment, and use a lot of scientific and engineering computing skills for his research.
+I am a engineering researcher on thermal systems and smart building equipment, and use a lot of scientific and engineering computing skills for his research.
 
 I am trying to immerse my research skills into my daily life and hobbies, and this blog documents my ups and downs in this journey.
 
