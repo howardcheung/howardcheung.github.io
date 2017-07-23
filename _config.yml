@@ -34,7 +34,7 @@ plugins_dir:
   - jekyll-feed
 keep_files: ["publications/2014 IEA HP - DHP Fault Modeling Paper.pdf", "publications/Final_dissertation_edit.pdf"]
 disqus:
-shortname: howardcheung
+shortname: https-howardcheung-github-io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
