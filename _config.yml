@@ -29,9 +29,9 @@ github_username:  howardcheung
 markdown: kramdown
 theme: minima
 # theme: jekyll-theme-slate
-plugins:
+plugins_dir:
   - jekyll-feed
-keep_files: ["/publications/2014 IEA HP - DHP Fault Modeling Paper.pdf"]
+keep_files: ["publications/2014 IEA HP - DHP Fault Modeling Paper.pdf", "publications/Final_dissertation_edit.pdf"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
