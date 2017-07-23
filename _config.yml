@@ -32,8 +32,8 @@ theme: minima
 # repository: pages-themes/slate
 plugins_dir:
   - jekyll-feed
-disqus:
-  shortname: https-howardcheung-github-io
+# disqus:
+#   shortname: https-howardcheung-github-io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

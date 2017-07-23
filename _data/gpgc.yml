@@ -1,0 +1,11 @@
+repo_owner: howardcheung
+repo_name: https://github.com/howardcheung/howardcheung.github.io
+disabled: false
+use_show_action: false
+label_name: Post Comments
+label_color: 666666
+github_application:
+  client_id: 30b2d59a74781c7c65e7
+  code_authenticator: https://tungcomm.herokuapp.com/
+  callback_url: https://howardcheung.github.io/public/html/gpgc_redirect/index.html
+enable_diagnostics: false
