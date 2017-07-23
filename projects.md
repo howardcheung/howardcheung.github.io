@@ -10,7 +10,9 @@ I am working on multiple research projects and some open-source projects for eve
 
 ### Current
 #### [Data Preprocessing Helper](https://howardcheung.github.io/data-preprocessing-helper/)
-I made this Windows 64-bit application to help building engineers to preprocess their building management system (BMS) data for easier analysis in spreadsheet format. Issues it solves includes filling in gaps of data and aligning the recording time of the data. It also works for other types of time-series data as well. Check the website and the repository for more information over [here](https://howardcheung.github.io/data-preprocessing-helper/). The project is mainly built in Python.
+I made this Windows application to help building engineers to preprocess their building management system (BMS) data for easier analysis in spreadsheet format. Issues it solves includes filling in gaps of data and aligning the recording time of the data. It also works for other types of time-series data as well. Check the website and the repository for more information over [here](https://howardcheung.github.io/data-preprocessing-helper/). The project is mainly built in Python.
+
+![](../raw_img/DataPreprocessingHelper/DataPreprocessingHelper.png "Data Preprocessing Helper")
 
 ### Previous
 #### [Openstudio fault models](https://github.com/nrel/openstudio-fault-models)                        {#OpenStudioFaultModel}
@@ -22,11 +24,15 @@ I worked on this project previously to create models of faults (e.g. deviation f
 #### Building energy assessment
 I am working on examining the energy-saving potentials and faults in various building systems to reduce their energy consumption. Issues like chiller and pump sequencing, overcooling, low-$\Delta$T syndromes are being examined, and their control systems are being configured to reduce the unnecessary energy consumption caused by these issues.
 
+![](../raw_img/BuildingEnergyAssessment/ChillerSequencing.png "Histogram showing a chiller plant can run one less chiller according to the BMS analysis")
+
 #### Data center energy management solution
 I am working on energy management solutions such as fault detection and diagnostics and control designs for data centers to reduce their cooling system energy consumption. The project has just started and if you're interested in collaboration, feel free to contact me at <howard.at@gmail.com>!
 
 #### Uncertainty calculation for thermal system applications
 I have spent quite some time to work on calculation of uncertainties due to various factors such as regression data measurement uncertainties, choice of regression data, model structure, etc. for thermal system models. There are some publications about the research for compressor models, and the project is still on-going for other thermal applications. If you want to know more, you can look it up at my publication list or contact me directly at <howard.at@gmail.com>!
+
+![](../raw_img/UncertaintyCalculation/CompUncertaintyCalculation.png "Uncertainty calculation that predicts if a model is extrapolating")
 
 ### Previous
 I am still organizing this section and haven't listed everything yet. In the meantime, check out [my publication list](../publications) for more information!
