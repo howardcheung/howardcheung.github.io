@@ -27,9 +27,9 @@ github_username:  howardcheung
 
 # Build settings
 markdown: kramdown
-theme: minima
-# theme: jekyll-theme-slate
-# repository: pages-themes/slate
+# theme: minima
+theme: jekyll-theme-slate
+repository: pages-themes/slate
 plugins_dir:
   - jekyll-feed
 keep_files: ["publications/2014 IEA HP - DHP Fault Modeling Paper.pdf", "publications/Final_dissertation_edit.pdf"]
