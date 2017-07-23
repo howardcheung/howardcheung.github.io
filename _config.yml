@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Howard's ups and downs
-subtitle: On what Howard does, says and thinks
+author: Howard Cheung
 email: howard.at@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Documenting Howard's ups and downs in his engineering research in thermal
@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "howardcheung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: howardat
-github_username:  howardcheung
+github_username: howardcheung
 
 # Build settings
 markdown: kramdown
