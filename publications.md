@@ -44,7 +44,7 @@ I'll try to host my paper preprints on this website as much as I can. For the fi
 
 * Cheung, H. and Bach, C. K., (2015), Prediction of uncertainty of 10-coefficient compressor maps for extreme operating conditions. _IOP Conference Series: Materials Science and Engineering_, 90:1 [[External link]](http://iopscience.iop.org/article/10.1088/1757-899X/90/1/012078/meta)
 
-* Cheung, H. and Braun, J. E., (2014), Modeling of Fault Impacts for a Multi-split Ductless Heat Pump System. _Proceedings of the 11th IEA Heat Pump Conference 2014_, Montreal, Quebec [[Preprint]](./2014 IEA HP - DHP Fault Modeling Paper.pdf)
+* Cheung, H. and Braun, J. E., (2014), Modeling of Fault Impacts for a Multi-split Ductless Heat Pump System. _Proceedings of the 11th IEA Heat Pump Conference 2014_, Montreal, Quebec [[Preprint]](https://github.com/howardcheung/howardcheung.github.io/raw/master/_site/publications/2014%20IEA%20HP%20-%20DHP%20Fault%20Modeling%20Paper.pdf)
 
 * Cheung, H. and Braun, J. E., (2014), Virtual Power Consumption and Cooling Capacity Virtual Sensors for Rooftop Units. _Proceedings of the 15th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[External link for a free copy]](http://docs.lib.purdue.edu/iracc/1535/)
 
@@ -68,4 +68,4 @@ I'll try to host my paper preprints on this website as much as I can. For the fi
 * Cheung, H. and Braun, J. E., (2015), _Development of Fault Models for Hybrid Fault Detection and Diagnostics Algorithm_, NREL/SR-5500-65030. Golden, CO: National Renewable Energy Laboratory [[External link for a free copy]](http://www.nrel.gov/docs/fy16osti/65030.pdf)
 
 # PhD Dissertation
-* Cheung, H. (2014). Inverse modeling of vapor compression equipment to enable simulation of fault impacts (PhD Dissertation). Purdue University, West Lafayette, IN. [[External link]](http://docs.lib.purdue.edu/dissertations/AAI3668777/) [[File hosted here]](./Final_dissertation_edit.pdf)
+* Cheung, H. (2014). Inverse modeling of vapor compression equipment to enable simulation of fault impacts (PhD Dissertation). Purdue University, West Lafayette, IN. [[External link]](http://docs.lib.purdue.edu/dissertations/AAI3668777/) [[File hosted here]](https://github.com/howardcheung/howardcheung.github.io/raw/master/_site/publications/Final_dissertation_edit.pdf)

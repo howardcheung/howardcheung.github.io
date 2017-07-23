@@ -88,9 +88,9 @@ Here is a listed of publications ordered according to the nature of the projects
 
 * Yuill, D. P., Cheung, H. and Braun, J. E., (2014), Validation of a Fault-Modeling Equipped Vapor Compression System Model Using a Fault Detection and Diagnostics Evaluation Tool. _Proceedings of the 15th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[External link for a free copy]](http://docs.lib.purdue.edu/iracc/1544/)
 
-* Cheung, H. and Braun, J. E., (2014), Modeling of Fault Impacts for a Multi-split Ductless Heat Pump System. _Proceedings of the 11th IEA Heat Pump Conference 2014_, Montreal, Quebec [[Preprint]](../publications/2014 IEA HP - DHP Fault Modeling Paper.pdf)
+* Cheung, H. and Braun, J. E., (2014), Modeling of Fault Impacts for a Multi-split Ductless Heat Pump System. _Proceedings of the 11th IEA Heat Pump Conference 2014_, Montreal, Quebec [[Preprint]](https://github.com/howardcheung/howardcheung.github.io/raw/master/_site/publications/2014%20IEA%20HP%20-%20DHP%20Fault%20Modeling%20Paper.pdf)
 
-* Cheung, H. (2014). Inverse modeling of vapor compression equipment to enable simulation of fault impacts (PhD Dissertation). Purdue University, West Lafayette, IN. [[External link]](http://docs.lib.purdue.edu/dissertations/AAI3668777/) [[File hosted here]](../publications/Final_dissertation_edit.pdf)
+* Cheung, H. (2014). Inverse modeling of vapor compression equipment to enable simulation of fault impacts (PhD Dissertation). Purdue University, West Lafayette, IN. [[External link]](http://docs.lib.purdue.edu/dissertations/AAI3668777/) [[File hosted here]](https://github.com/howardcheung/howardcheung.github.io/raw/master/_site/publications/Final_dissertation_edit.pdf)
 
 * Cheung, H. and Braun, J. E., (2012), Inverse Modeling to Simulate Fault Impacts for Vapor Compression Equipment Part 2:  System Modeling and Validation, _Proceedings of 14th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[External link for a free copy]](http://docs.lib.purdue.edu/iracc/1167/)
 
