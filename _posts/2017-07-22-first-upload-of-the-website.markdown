@@ -2,7 +2,7 @@
 layout: post
 title:  "First upload of the main website"
 date:   2017-07-22 17:00:00 +0800
-categories: TBD
+categories: ["Jekyll"]
 ---
 
 This is my real website that can be customized by myself, and I am really excited about it. Previously, I could only enter my profiles at Xanga (I know it's old), bepress, LinkedIn, ResearchGate, etc. as my website. It's a little bit frustrating because I cannot upload stuffs or links as I want (e.g. open-source repositories, publication preprints). With this website, I can customize it and put whatever I like such as blog posts, leisure-time projects, etc.
