@@ -22,7 +22,7 @@ I worked on this project previously to create models of faults (e.g. deviation f
 
 ### Current
 #### Building energy assessment
-I am working on examining the energy-saving potentials and faults in various building systems to reduce their energy consumption. Issues like chiller and pump sequencing, overcooling, low-$\Delta$T syndromes are being examined, and their control systems are being configured to reduce the unnecessary energy consumption caused by these issues.
+I am working on examining the energy-saving potentials and faults in various building systems to reduce their energy consumption. Issues like chiller and pump sequencing, overcooling, low-Delta-T syndromes are being examined, and their control systems are being configured to reduce the unnecessary energy consumption caused by these issues.
 
 ![](../raw_img/BuildingEnergyAssessment/ChillerSequencing.png "Histogram showing a chiller plant can run one less chiller according to the BMS analysis")
 
