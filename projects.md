@@ -40,6 +40,8 @@ I am still organizing this section and haven't listed everything yet. In the mea
 #### Evaluating performance of a building audit tool
 I worked on an evaluation project of the performance of an automatic building audit tool for small commercial buildings. The tool estimates the type of energy uses in a building and diagnoses operation issues that burdens the building energy bills unnecessarily, and building owners can fix the issues to save some money. To know if the tool performance meets its claims, I evaluated its accuracy and reliabililty to estimate the end uses and to conduct the diagnoses using more than 2,000 building simulation scenarios on the cloud. More details can be found at the technical report [Methodology to Assess No Touch Audit Software Using Simulated Building Utility Data](http://www.nrel.gov/docs/fy17osti/66001.pdf).
 
+![](../raw_img/EvaluationBuildingAudit/UncertaintyVSBias.png "A plot of uncertainty vs bias. A point closer to the origin means a more accurate and reliable estimation.")
+
 #### Modeling of HVAC equipment faults in energy models of commercial buildings
 Please refer to the development of the open-source software [Openstudio fault models](#OpenStudioFaultModel). In case you don't know, HVAC means heating, ventilating and air conditioning ([Wikipedia](https://en.wikipedia.org/wiki/HVAC)).
 
@@ -51,8 +53,11 @@ This is my PhD thesis project related to the study of the impact of air conditio
 * Refrigerant pipeline blockages (i.e. refrigerant pipeline blockages)
 * Compressor valve leakages
 * Electronic valve opereation failure
+* Non-vacuumed air conditioner before charging
 
-and they all show adverse effect to both the cooling capacity and efficiency of the air conditioners. In other words, they increase the operation cost of your ACs.
+and they all show adverse effect to both the cooling capacity and efficiency of the air conditioners. In other words, they increase the operation cost of your ACs. For example, the diagrams below show that air (non-condensable) inside the air conditioner can significantly increase the power consumption, and the lack of charge (refrigerant) can significantly reduce the amount of cooling an air conditioner can deliver.
+
+![](../raw_img/InverseModeling/FaultImpactAirConditioner.png "How air in air conditioner or lack of refrigerant worsen the air conditioner performance.")
 
 The modeling was mainly conducted in MATLAB with a few dynamic libraries written in C++.
 
@@ -61,6 +66,8 @@ I developed a low-cost estimator of power consumption of rooftop air conditioner
 
 #### Testing and Modeling of Dual-Unit Ductless Heat Pump System
 I tested the performance of multiple ductless heat pump systems, including one with two indoor units, in psychrometric chambers. This helped to validate the field testing results of these systems for a comparison of their energy efficiency with that of conventional heating systems. I also created empirical models of these systems using the test results to help modeling their performance in building simulation programs, including their performance under defrost operation. To understand how they operated, I also modeled their operation using mechanistic models to examine how the refrigerant flows are controlled inside the indoor units, especially when multiple indoor units are involved.
+
+![](../raw_img/DHPTesting/FrostBuildUp.jpg "Testing the effect of low temperature on heat pump performance.")
 
 ### Relevant publications
 
