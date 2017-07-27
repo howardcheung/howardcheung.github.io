@@ -16,19 +16,19 @@ Version control, by [Wikipedia](https://en.wikipedia.org/wiki/Version_control), 
 
 If you keep saving your files as new versions, at the end of your graduate study, with all the changes to your projects requested by your supervisors, committee members, project sponsors and paper reviewers, you will end up with a lot of files.
 
-![](../../../../raw_img/GraduateStudy/NumFiles.png)
+![](https://github.com/howardcheung/howardcheung.github.io/blob/master/raw_img/GraduateStudy/NumFiles.png)
 
 _Number of files of different versions for a thesis research. More than 200 versions and more than 6,000 files._
 
 With version control, you can limit your number of files in your directory to ones of the current version:
 
-![](../../../../raw_img/GraduateStudy/NumFilesWithVersionControl.png)
+![](https://github.com/howardcheung/howardcheung.github.io/blob/master/raw_img/GraduateStudy/NumFilesWithVersionControl.png)
 
 _Number of files of different versions for a project with version control. 248 files in total with a version control log for 216 revisions._
 
 and revert back to other milestones whether necessary:
 
-![](../../../../raw_img/GraduateStudy/ChangeBranch.png)
+![](https://github.com/howardcheung/howardcheung.github.io/blob/master/raw_img/GraduateStudy/ChangeBranch.png)
 
 _Switch to an older branch when the current development direction is bad with just a few clicks_
 
@@ -38,7 +38,7 @@ For the project without version control, there're so many files without proper l
 
 You can definitely remember its details when you're working on the project. But will you be able to remember what they are after you finish it for 2 months? How about 6 months? 8 months? Academia is a place where your work is tagged to you. Instead of a junior colleague who will follow up for you in the future, you will take care of your thesis project for the rest of your life if somebody asks questions about it. After 2 to 5 years, if somebody asks to replicate your work, will you be able to find the appropriate files to let them do so? If you keep staring at your files, you will eventually recall what you have done and give them the right files, but it will probably take hours to do so. With proper version control, a few minutes will be sufficient to give you enough log to recall what you have done for different versions.
 
-![](../../../../raw_img/GraduateStudy/LogDiagram.png)
+![](https://github.com/howardcheung/howardcheung.github.io/blob/master/raw_img/GraduateStudy/LogDiagram.png)
 
 _A version control software showing a summary of past development directions and which version of files are residing in your directory now._
 
@@ -52,7 +52,7 @@ If you do not want to use any new software tool, you can probably do it yourself
 
 If you would like to use a software tool, you can start with ones with a graphical user interface (GUI) like [SourceTree](https://www.sourcetreeapp.com/), [TortoiseGit](https://tortoisegit.org/) or [TortoiseHg](https://tortoisehg.bitbucket.io/). If you're familiar with programming and would like to use the terminals/ command windows for more flexible and less computational expensive tools, you can use the tools behind these GUI such as [Git](https://git-scm.com/) or [Mecurial](https://www.mercurial-scm.org/). These free tools work best with plain text files and work fine with other types of files as well. There are also tools that are specifically designed for other types of files, but I have not used them and I cannot comment on their performance.
 
-![](../../../../raw_img/GraduateStudy/GitExample.png)
+![](https://github.com/howardcheung/howardcheung.github.io/blob/master/raw_img/GraduateStudy/GitExample.png)
 
 _Using Git to record what changes have been made_
 
