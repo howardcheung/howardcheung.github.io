@@ -12,7 +12,7 @@ I started practising SMART in the beginning of my work everyday to know what tas
 
 # What are SMART criteria?
 
-[SMART](https://en.wikipedia.org/wiki/SMART_criteria) is a list of criteria that help people to set their objectives. They are first suggested by George T. Doran, and each letter represents one criterion as follows
+[SMART](https://en.wikipedia.org/wiki/SMART_criteria) is a list of criteria that help people to set their objectives. They are first suggested by George T. Doran, and each letter represents one criterion:
 
 * __S__pecific
 * __M__easurable
