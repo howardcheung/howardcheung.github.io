@@ -14,11 +14,11 @@ I started practising SMART in the beginning of my work everyday to know what tas
 
 [SMART](https://en.wikipedia.org/wiki/SMART_criteria) is a list of criteria that help people to set their objectives. They are first suggested by George T. Doran, and each letter represents one criterion:
 
-* __S__pecific
-* __M__easurable
-* __A__ssignable
-* __R__ealistic
-* __T__ime-related
+* **S**pecific
+* **M**easurable
+* **A**ssignable
+* **R**ealistic
+* **T**ime-related
 
 # How do I follow the SMART criteria daily?
 
