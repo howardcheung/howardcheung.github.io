@@ -73,6 +73,12 @@ I tested the performance of multiple ductless heat pump systems, including one w
 
 Here is a listed of publications ordered according to the nature of the projects instead of the type of publication. Note that a publication can appear in this list multiple times if it is related to multiple projects. For a clean list of publications, please read [here](../publications).
 
+#### Building energy assessment
+* Cheung, H., Shan, K., Wang, S., (2017), A fault-tolerant control method of balancing valves for condenser fouling in water-cooled chillers, _9th International Conference on Applied Energy_, Cardiff, UK, _Accepted_
+
+#### Data center energy management solution
+* Cheung, H., Wang, S., Zhaung, C., (2017), Development of a simple power consumption model of information technology (IT) equipment for building simulation, _9th International Conference on Applied Energy_, Cardiff, UK, _Accepted_
+
 #### OpenStudio fault modeling/ Modeling of HVAC equipment faults in energy models of commercial buildings
 * Frank, S., Heaney, M., Jin, X., Robertson, J., Cheung, H., Elmore, R. and Henze, G. (2016), Hybrid Model-Based and Data-Driven Fault Detection and Diagnostics for Commercial Buildings, _2016 ACEEE Summer Study on Energy Efficiency in Buildings_, Pacific Grove, California [[External link for a free preprint]](http://www.nrel.gov/docs/fy16osti/65924.pdf)
 
@@ -81,7 +87,7 @@ Here is a listed of publications ordered according to the nature of the projects
 #### Uncertainty calculation for thermal system applications
 * Cheung, H. and Wang, S., (2017), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
 
-* Cheung, H., Sarfraz, O. and Bach, C. K., (2017), A method to calculate uncertainty of empirical compressor maps with the consideration of extrapolation effect and choice of training data, _Science and Technology for the Built Environment_, _Accepted_
+* Cheung, H., Sarfraz, O. and Bach, C. K., (2017), A method to calculate uncertainty of empirical compressor maps with the consideration of extrapolation effect and choice of training data, _Science and Technology for the Built Environment_, [[DOI link]](http://dx.doi.org/10.1080/23744731.2017.1372805) [[Postprint hosted here]](../raw_files/Postprint-Cheung-2017-STBE.pdf)
 
 * Cheung, H. and Braun, J. E., (2016), Minimizing data collection for field calibration of steady-state virtual sensors for HVAC equipment, _International Journal of Refrigeration_, 69, 96-105, [[DOI link]](http://dx.doi.org/10.1016/j.ijrefrig.2016.05.007)
 
