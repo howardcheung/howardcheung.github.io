@@ -8,6 +8,8 @@ comments: true
 
 As I said, I'll give a brief account on my encounters at the ICAE conference. It's always good to write down your experience before you forget most of it, right?
 
+![](../../../../raw_img/Trip/icae2017.png "ICAE2017")
+
 The ICAE 2017 conference is a conference organized by the editorial committee of the journal Applied Energy on applications and studies related to energy issues in general. It was held at Cardiff, Wales from the 20th to 24th August, 2017. While most people in my research group attend it regularly, it was my first time to attend the conference, and it's exciting to meet other people working in the same field. Here are some memorable remarks:
 
 * It seems that more and more research groups are developing big frameworks now. Framework to develop machine learning algorithms for calibrating building models of a community of buildings, framework to estimate models of energy systems to estimate energy flow for a nation, framework to use communication technologies on smart grid...... I never develop my methods into frameworks that are like stories and can be easily digested and used by others. That explains why the journal Applied Energy and their authors get so much attention! I really need to catch up on that.
