@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ICAE 2017 highlights"
+title:  "My thoughts on ICAE 2017"
 date:   2017-09-06 23:00:00 +0800
 categories: ["Trip"]
 comments: true
