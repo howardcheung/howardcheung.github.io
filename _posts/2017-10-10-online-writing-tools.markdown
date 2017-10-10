@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Online writing tools"
-date:   2017-10-08 23:00:00 +0800
+date:   2017-10-10 23:15:00 +0800
 categories: ["Graduate Study Tips"]
 comments: true
 ---
