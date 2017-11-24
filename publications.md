@@ -9,10 +9,9 @@ Looks like you're really interested in what I have done! Thank you so much!
 I'll try to host my paper preprints on this website as much as I can. For the final accepted manuscripts, I usually don't host them here due to copyright issues, and please use their DOI to visit the publishers' websites to download them.
 
 # Journal publications
+* Cheung, H. and Wang, S., (2018), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
 
 * Cheung, H., Sarfraz, O. and Bach, C. K., (2017), A method to calculate uncertainty of empirical compressor maps with the consideration of extrapolation effect and choice of training data, _Science and Technology for the Built Environment_, [[DOI link]](http://dx.doi.org/10.1080/23744731.2017.1372805) [[Postprint hosted here]](../raw_files/Postprint-Cheung-2017-STBE.pdf)
-
-* Cheung, H. and Wang, S., (2017), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
 
 * Cheung, H. and Braun, J. E., (2017), An empirical model for simulating the effects of refrigerant charge faults on air conditioner performance, _Science and Technology for the Built Environment_, [[DOI link]](http://dx.doi.org/10.1080/23744731.2016.1260419)
 
@@ -35,9 +34,9 @@ I'll try to host my paper preprints on this website as much as I can. For the fi
 * Leung, R., Cheung, H., Gang, H. and Ye, W. (2010), A Monte Carlo Simulation approach for the modeling of free-molecule squeeze-film damping of flexible microresonators, _Microfluidics and Nanofluidics_, 9:4, 809-818, [[DOI link]](https://doi.org/10.1007/s10404-010-0597-0)
 
 # Conference publications
-* Cheung, H., Wang, S., Zhaung, C., (2017), Development of a simple power consumption model of information technology (IT) equipment for building simulation, _9th International Conference on Applied Energy_, Cardiff, UK, _Accepted_
+* Cheung, H., Wang, S., Zhaung, C., (2017), Development of a simple power consumption model of information technology (IT) equipment for building simulation, _9th International Conference on Applied Energy_, Cardiff, UK, [[Postprint hosted here]](../raw_files/ICAE-2017-DataCenterModel.pdf)
 
-* Cheung, H., Shan, K., Wang, S., (2017), A fault-tolerant control method of balancing valves for condenser fouling in water-cooled chillers, _9th International Conference on Applied Energy_, Cardiff, UK, _Accepted_
+* Cheung, H., Shan, K., Wang, S., (2017), A fault-tolerant control method of balancing valves for condenser fouling in water-cooled chillers, _9th International Conference on Applied Energy_, Cardiff, UK, [[Postprint hosted here]](../raw_files/ICAE-2017-FaultTolerantCtrl.pdf)
 
 * Bach, C. K. and Cheung, H., (2016), Mapping of Vapor Injected Compressor with Consideration of Extrapolation Uncertainty, _Conference proceedings of ASHRAE Winter Conference 2016_, OR-16-C042 [[External link]](http://www.techstreet.com/products/1910166)
 
