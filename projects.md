@@ -21,13 +21,18 @@ I worked on this project previously to create models of faults (e.g. deviation f
 ## Research projects
 
 ### Current
+
+#### Data center energy management solution
+I am working on energy management solutions such as design and controls of cooling systems in data centers to reduce their cooling system energy consumption. Currently, I have built a model in building simulation programs to estimate the changes of data center power consumption with the status of the computing equipment in a data center.
+
+![](../raw_img/DataCenterCooling/CombinedDiagram2.png "Two building simulation case results showing how server processor utilization rate changes cooling load of a data center")
+
+And I'll move forward to use the information to optimize the designs and controls of data center cooling systems with the model. If you're interested in collaboration, feel free to contact me at <howard.at@gmail.com>!
+
 #### Building energy assessment
 I am working on examining the energy-saving potentials and faults in various building systems to reduce their energy consumption. Issues like chiller and pump sequencing, overcooling, low-Delta-T syndromes are being examined, and their control systems are being configured to reduce the unnecessary energy consumption caused by these issues.
 
 ![](../raw_img/BuildingEnergyAssessment/ChillerSequencing.png "Histogram showing a chiller plant can run one less chiller according to the BMS analysis")
-
-#### Data center energy management solution
-I am working on energy management solutions such as fault detection and diagnostics and control designs for data centers to reduce their cooling system energy consumption. The project has just started and if you're interested in collaboration, feel free to contact me at <howard.at@gmail.com>!
 
 #### Uncertainty calculation for thermal system applications
 I have spent quite some time to work on calculation of uncertainties due to various factors such as regression data measurement uncertainties, choice of regression data, model structure, etc. for thermal system models. There are some publications about the research for compressor models, and the project is still on-going for other thermal applications. If you want to know more, you can look it up at my publication list or contact me directly at <howard.at@gmail.com>!
