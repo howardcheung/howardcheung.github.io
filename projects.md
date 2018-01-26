@@ -90,7 +90,9 @@ Here is a listed of publications ordered according to the nature of the projects
 * Cheung, H. and Braun, J. E., (2015), _Development of Fault Models for Hybrid Fault Detection and Diagnostics Algorithm_, NREL/SR-5500-65030. Golden, CO: National Renewable Energy Laboratory [[External link for a free copy]](http://www.nrel.gov/docs/fy16osti/65030.pdf)
 
 #### Uncertainty calculation for thermal system applications
-* Cheung, H. and Wang, S., (2017), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
+* Cheung, H. and Wang, S., (2018), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
+
+* Cheung, H. and Wang, S., (2017), A comparison of the effect of empirical and physical modeling approaches to extrapolation capability of compressor models by uncertainty analysis: A case study with common semi-empirical compressor mass flow rate models, _International Journal of Refrigeration_, [[DOI link]](https://doi.org/10.1016/j.ijrefrig.2017.11.020)[[Postprint hosted here]](../raw_files/Postprint-withSupp-Cheung-2017-JIJR.pdf)
 
 * Cheung, H., Sarfraz, O. and Bach, C. K., (2017), A method to calculate uncertainty of empirical compressor maps with the consideration of extrapolation effect and choice of training data, _Science and Technology for the Built Environment_, [[DOI link]](http://dx.doi.org/10.1080/23744731.2017.1372805) [[Postprint hosted here]](../raw_files/Postprint-Cheung-2017-STBE.pdf)
 
