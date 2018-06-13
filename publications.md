@@ -9,7 +9,11 @@ Looks like you're really interested in what I have done! Thank you so much!
 I'll try to host my paper preprints on this website as much as I can. For the final accepted manuscripts, I usually don't host them here due to copyright issues, and please use their DOI to visit the publishers' websites to download them.
 
 # Journal publications
+* Cheung, H., Wang, S., Zhuang, C., & Gu, J. (2018). A simplified power consumption model of information technology (IT) equipment in data centers for energy system real-time dynamic simulation. _Applied Energy_, 222, 329–342. [[Postprint hosted here]](../raw_files/Postprint-Cheung-2018-APEN.pdf)
+
 * Cheung, H. and Wang, S., (2018), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
+
+* Tang, R., Wang, S., Shan, K., & Cheung, H. (2018). Optimal control strategy of central air-conditioning systems of buildings at morning start period for enhanced energy efficiency and peak demand limiting. _Energy_, 151, 771–781. [[DOI link]](https://doi.org/10.1016/j.energy.2018.03.032)
 
 * Cheung, H. and Wang, S., (2017), A comparison of the effect of empirical and physical modeling approaches to extrapolation capability of compressor models by uncertainty analysis: A case study with common semi-empirical compressor mass flow rate models, _International Journal of Refrigeration_, [[DOI link]](https://doi.org/10.1016/j.ijrefrig.2017.11.020)[[Postprint hosted here]](../raw_files/Postprint-withSupp-Cheung-2017-JIJR.pdf)
 

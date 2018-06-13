@@ -79,7 +79,7 @@ I tested the performance of multiple ductless heat pump systems, including one w
 Here is a listed of publications ordered according to the nature of the projects instead of the type of publication. Note that a publication can appear in this list multiple times if it is related to multiple projects. For a clean list of publications, please read [here](../publications).
 
 #### Data center energy management solution
-* Cheung, H., Wang, S., Zhuang, C., & Gu, J. (2018). A simplified power consumption model of information technology (IT) equipment in data centers for energy system real-time dynamic simulation. Applied Energy, 222, 329–342. [[Postprint hosted here]](../raw_files/Postprint-Cheung-2018-APEN.pdf)
+* Cheung, H., Wang, S., Zhuang, C., & Gu, J. (2018). A simplified power consumption model of information technology (IT) equipment in data centers for energy system real-time dynamic simulation. _Applied Energy_, 222, 329–342. [[Postprint hosted here]](../raw_files/Postprint-Cheung-2018-APEN.pdf)
 
 * Cheung, H., Wang, S., Zhaung, C., (2017), Development of a simple power consumption model of information technology (IT) equipment for building simulation, _9th International Conference on Applied Energy_, Cardiff, UK, [[Postprint hosted here]](../raw_files/ICAE-2017-DataCenterModel.pdf)
 
@@ -145,5 +145,5 @@ Here is a listed of publications ordered according to the nature of the projects
 * Cheung, H. and Braun, J. E., (2010), Performance Characteristics and Mapping for a Variable-Speed Ductless Heat Pump, _Proceedings of 13th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[External link for a free copy]](http://docs.lib.purdue.edu/herrick/6/)
 
 #### Others
-* Tang, R., Wang, S., Shan, K., & Cheung, H. (2018). Optimal control strategy of central air-conditioning systems of buildings at morning start period for enhanced energy efficiency and peak demand limiting. Energy, 151, 771–781. [[DOI link]](https://doi.org/10.1016/j.energy.2018.03.032)
+* Tang, R., Wang, S., Shan, K., & Cheung, H. (2018). Optimal control strategy of central air-conditioning systems of buildings at morning start period for enhanced energy efficiency and peak demand limiting. _Energy_, 151, 771–781. [[DOI link]](https://doi.org/10.1016/j.energy.2018.03.032)
 
