@@ -96,6 +96,8 @@ Here is a listed of publications ordered according to the nature of the projects
 
 * Cheung, H. and Wang, S., (2018), Performance Comparison of Empirical and Semi-empirical Compressor Models with Uncertainty Analysis and Probabilistic Forecasting Techniques. _Proceedings of the 17th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[Postprint hosted here]](../raw_files/Cheung-2018-CompModelComp.pdf)
 
+* Li, H., Wang, S. and Cheung, H. (2018). Sensitivity analysis of design parameters and optimal design for zero/low energy buildings in subtropical regions. _Applied Energy_, 228, 1280-1291. [[DOI link]](https://doi.org/10.1016/j.apenergy.2018.07.023)
+
 * Cheung, H., Frutiger, J., Bell, I. H., Abildskov, J., Sin, G. and Wang, S. (2018), Uncertainty Quantification of Experimental Air Conditioner Performance due to the Uncertainty of the Equation of State. _Proceedings of the 17th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[Postprint hosted here]](../raw_files/Cheung-2018-ACUncertainty.pdf)
 
 * Cheung, H. and Wang, S., (2017), A comparison of the effect of empirical and physical modeling approaches to extrapolation capability of compressor models by uncertainty analysis: A case study with common semi-empirical compressor mass flow rate models, _International Journal of Refrigeration_, [[DOI link]](https://doi.org/10.1016/j.ijrefrig.2017.11.020)[[Postprint hosted here]](../raw_files/Postprint-withSupp-Cheung-2017-JIJR.pdf)
