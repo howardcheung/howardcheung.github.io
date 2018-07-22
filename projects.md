@@ -94,6 +94,10 @@ Here is a listed of publications ordered according to the nature of the projects
 #### Uncertainty calculation for thermal system applications
 * Cheung, H. and Wang, S., (2018), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
 
+* Cheung, H. and Wang, S., (2018), Performance Comparison of Empirical and Semi-empirical Compressor Models with Uncertainty Analysis and Probabilistic Forecasting Techniques. _Proceedings of the 17th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[Postprint hosted here]](../raw_files/Cheung-2018-CompModelComp.pdf)
+
+* Cheung, H., Frutiger, J., Bell, I. H., Abildskov, J., Sin, G. and Wang, S. (2018), Uncertainty Quantification of Experimental Air Conditioner Performance due to the Uncertainty of the Equation of State. _Proceedings of the 17th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[Postprint hosted here]](../raw_files/Cheung-2018-ACUncertainty.pdf)
+
 * Cheung, H. and Wang, S., (2017), A comparison of the effect of empirical and physical modeling approaches to extrapolation capability of compressor models by uncertainty analysis: A case study with common semi-empirical compressor mass flow rate models, _International Journal of Refrigeration_, [[DOI link]](https://doi.org/10.1016/j.ijrefrig.2017.11.020)[[Postprint hosted here]](../raw_files/Postprint-withSupp-Cheung-2017-JIJR.pdf)
 
 * Cheung, H., Sarfraz, O. and Bach, C. K., (2017), A method to calculate uncertainty of empirical compressor maps with the consideration of extrapolation effect and choice of training data, _Science and Technology for the Built Environment_, [[DOI link]](http://dx.doi.org/10.1080/23744731.2017.1372805) [[Postprint hosted here]](../raw_files/Postprint-Cheung-2017-STBE.pdf)

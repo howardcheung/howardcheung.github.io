@@ -40,6 +40,10 @@ I'll try to host my paper preprints on this website as much as I can. For the fi
 * Leung, R., Cheung, H., Gang, H. and Ye, W. (2010), A Monte Carlo Simulation approach for the modeling of free-molecule squeeze-film damping of flexible microresonators, _Microfluidics and Nanofluidics_, 9:4, 809-818, [[DOI link]](https://doi.org/10.1007/s10404-010-0597-0)
 
 # Conference publications
+* Cheung, H. and Wang, S., (2018), Performance Comparison of Empirical and Semi-empirical Compressor Models with Uncertainty Analysis and Probabilistic Forecasting Techniques. _Proceedings of the 17th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[Postprint hosted here]](../raw_files/Cheung-2018-CompModelComp.pdf)
+
+* Cheung, H., Frutiger, J., Bell, I. H., Abildskov, J., Sin, G. and Wang, S. (2018), Uncertainty Quantification of Experimental Air Conditioner Performance due to the Uncertainty of the Equation of State. _Proceedings of the 17th International Refrigeration and Air Conditioning Conference at Purdue_, West Lafayette, Indiana [[Postprint hosted here]](../raw_files/Cheung-2018-ACUncertainty.pdf)
+
 * Cheung, H., Wang, S., Zhaung, C., (2017), Development of a simple power consumption model of information technology (IT) equipment for building simulation, _9th International Conference on Applied Energy_, Cardiff, UK, [[Postprint hosted here]](../raw_files/ICAE-2017-DataCenterModel.pdf)
 
 * Cheung, H., Shan, K., Wang, S., (2017), A fault-tolerant control method of balancing valves for condenser fouling in water-cooled chillers, _9th International Conference on Applied Energy_, Cardiff, UK, [[Postprint hosted here]](../raw_files/ICAE-2017-FaultTolerantCtrl.pdf)
