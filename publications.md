@@ -13,7 +13,7 @@ I'll try to host my paper preprints on this website as much as I can. For the fi
 
 * Cheung, H. and Wang, S., (2018), Impact of Dynamics on The Accuracies of Different Experimental Data Processing Methods for Steady-state Heat Transfer Rate Measurement, _Journal of Thermal Science and Engineering Applications_, [[DOI link]](http://dx.doi.org/10.1115/1.4037543)
 
-* Li, H., Wang, S. and Cheung, H. (2018). Sensitivity analysis of design parameters and optimal design for zero/low energy buildings in subtropical regions. _Applied Energy_, 228, 1280-1291. [[DOI link]](https://doi.org/10.1016/j.apenergy.2018.07.023)
+* Li, H., Wang, S. and Cheung, H. (2018). Sensitivity analysis of design parameters and optimal design for zero/low energy buildings in subtropical regions. _Applied Energy_, 228, 1280-1291. [[DOI link]](https://doi.org/10.1016/j.apenergy.2018.07.023) [[Postprint hosted here]](../raw_files/PostPrint-Hangxin-ZCB.pdf)
 
 * Tang, R., Wang, S., Shan, K., & Cheung, H. (2018). Optimal control strategy of central air-conditioning systems of buildings at morning start period for enhanced energy efficiency and peak demand limiting. _Energy_, 151, 771–781. [[DOI link]](https://doi.org/10.1016/j.energy.2018.03.032)
 
